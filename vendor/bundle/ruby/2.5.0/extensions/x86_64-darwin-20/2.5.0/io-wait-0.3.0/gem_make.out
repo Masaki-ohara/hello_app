@@ -1,0 +1,11 @@
+current directory: /Users/oharamasaki/environment/hello_app/vendor/bundle/ruby/2.5.0/gems/io-wait-0.3.0/ext/io/wait
+/Users/oharamasaki/.rbenv/versions/2.5.1/bin/ruby -I /Users/oharamasaki/.rbenv/versions/2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20230708-97874-1oduy8c.rb extconf.rb
+
+current directory: /Users/oharamasaki/environment/hello_app/vendor/bundle/ruby/2.5.0/gems/io-wait-0.3.0/ext/io/wait
+make DESTDIR\= clean
+
+current directory: /Users/oharamasaki/environment/hello_app/vendor/bundle/ruby/2.5.0/gems/io-wait-0.3.0/ext/io/wait
+make DESTDIR\=
+
+current directory: /Users/oharamasaki/environment/hello_app/vendor/bundle/ruby/2.5.0/gems/io-wait-0.3.0/ext/io/wait
+make DESTDIR\= install
